@@ -1,13 +1,6 @@
 Dependencies:
 
-operator
-tracemalloc
-pandas
-matplotlib
-numpy
-yfinance
-mplfinance
-pandas_datareader
+operator tracemalloc pandas matplotlib numpy yfinance mplfinance pandas_datareader
 
 Visual Analysis Componenets:
 
