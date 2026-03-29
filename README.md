@@ -1,6 +1,17 @@
+Overview:
+
+Outputs price vs time candlestick charts for any chosen stock along any chosen timeline. Includes a plot of it's simple moving average for any chosen time length, bollinger bands, and stochastic oscillator. Highlights potential pivot points where the price may reverse directions. Program ends when user enters a stock ticker of "quit".
+
 Dependencies:
 
-operator tracemalloc pandas matplotlib numpy yfinance mplfinance pandas_datareader
+operator,
+tracemalloc,
+pandas,
+matplotlib,
+numpy,
+yfinance,
+mplfinance,
+pandas_datareader
 
 Visual Analysis Componenets:
 
